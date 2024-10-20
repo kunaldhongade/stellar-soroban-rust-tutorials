@@ -1,5 +1,5 @@
 [package]
-name = "hello-world"
+name = "lumi_fi"
 version = "0.0.0"
 edition = "2021"
 publish = false
